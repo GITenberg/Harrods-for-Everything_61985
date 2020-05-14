@@ -1,0 +1,25 @@
+_repo: Harrods-for-Everything_61985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrods Ltd.
+    alias: Ltd., Harrods
+    gutenberg_agent_id: '51709'
+    url: http://www.gutenberg.org/2009/agents/51709
+    wikipedia: https://en.wikipedia.org/wiki/Harrods
+description: ''
+gutenberg_issued: '2020-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manufactures -- Catalogs'
+- !lcsh 'Harrods Ltd. -- Catalogs'
+- !lcc 'TS'
+- GITenberg
+title: Harrods for Everything
+url: http://www.gutenberg.org/ebooks/61985
